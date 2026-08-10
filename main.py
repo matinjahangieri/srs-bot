@@ -1,6 +1,6 @@
 import requests, time, json, os
 
-TOKEN = "BIEBDG0YNNSQVXHROXLKXXHGYUUFDMEOUCXXYAISYRSIVNQVLPAEGZPBNMKHHVBX"
+TOKEN = "CBFJAC0EUURCJJRDYAHDCTVZSSYCZKNDJJKCIKBOQHKDEBPAKSDJTIHPEFLZZOMG"
 ADMIN_CHAT_ID = "b0JdCXS0o4d0385908ded26062d7d947"
 
 API = f"https://botapi.rubika.ir/v3/{TOKEN}/"
@@ -186,8 +186,8 @@ def handle(update):
         return
 
     if text == "📢 کانال‌های اُ":
-        ch1 = "RuBiKa.ir/KaSTeeH"
-        ch2 = "RuBiKa.ir/KeSLaTH"
+        ch1 = "RuBiKa.ir/codakey"
+        ch2 = "RuBiKa.ir/info_cia"
 
         answer = f"""📢 کانال‌های اُ
 
@@ -218,7 +218,7 @@ def handle(update):
     "City":None,
     "Skills":"who can know ?",
     "userName":" @CD_3443 @Felsoph -Offline⚫️ @Pv_SoRaS t.me/Felsoph",
-    "Channel":" @KaSTeeH @KeSLaTH 
+    "Channel":" @codakey @info_cia 
 ‌ t.me/aVaReGei t.me/nouboqe"
   }
 }"""
