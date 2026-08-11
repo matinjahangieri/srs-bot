@@ -28,7 +28,7 @@ from datetime import datetime
 RUBIKA_TOKEN = "CBFJAC0EUURCJJRDYAHDCTVZSSYCZKNDJJKCIKBOQHKDEBPAKSDJTIHPEFLZZOMG"  # توکن باتت رو اینجا بذار
 # چت مقصد پیام‌های ناشناس. اگه اشتباه باشه سرور خطای INVALID_ACCESS می‌ده.
 # برای گرفتن مقدار درست: از داخل بات روی «👤 اطلاعات من» بزن و «شناسه چت» رو کپی کن.
-ANON_TARGET_CHAT_ID = "b0JdCXS0xB900886546e0db78dbd0ba5"
+ANON_TARGET_CHAT_ID = "b0JdCXS0xBX0881f0817af0ae10db2d6"
 ANON_COOLDOWN_SECONDS = 30  # ضد هرزنامه: فاصله‌ی مجاز بین دو پیام ناشناس
 POLL_INTERVAL = 2  # فاصله‌ی هر بار چک‌کردن پیام‌های جدید (ثانیه)
 
